@@ -1,0 +1,12 @@
+C:\Users\mabubaker\source\repos\T4_ConnectionStringExample\T4_ConnectionStringExample\bin\Debug\netcoreapp2.1\T4_ConnectionStringExample.dll.config
+C:\Users\mabubaker\source\repos\T4_ConnectionStringExample\T4_ConnectionStringExample\bin\Debug\netcoreapp2.1\T4_ConnectionStringExample.deps.json
+C:\Users\mabubaker\source\repos\T4_ConnectionStringExample\T4_ConnectionStringExample\bin\Debug\netcoreapp2.1\T4_ConnectionStringExample.runtimeconfig.json
+C:\Users\mabubaker\source\repos\T4_ConnectionStringExample\T4_ConnectionStringExample\bin\Debug\netcoreapp2.1\T4_ConnectionStringExample.runtimeconfig.dev.json
+C:\Users\mabubaker\source\repos\T4_ConnectionStringExample\T4_ConnectionStringExample\bin\Debug\netcoreapp2.1\T4_ConnectionStringExample.dll
+C:\Users\mabubaker\source\repos\T4_ConnectionStringExample\T4_ConnectionStringExample\obj\Debug\netcoreapp2.1\T4_ConnectionStringExample.csprojAssemblyReference.cache
+C:\Users\mabubaker\source\repos\T4_ConnectionStringExample\T4_ConnectionStringExample\obj\Debug\netcoreapp2.1\T4_ConnectionStringExample.csproj.CoreCompileInputs.cache
+C:\Users\mabubaker\source\repos\T4_ConnectionStringExample\T4_ConnectionStringExample\obj\Debug\netcoreapp2.1\T4_ConnectionStringExample.AssemblyInfoInputs.cache
+C:\Users\mabubaker\source\repos\T4_ConnectionStringExample\T4_ConnectionStringExample\obj\Debug\netcoreapp2.1\T4_ConnectionStringExample.AssemblyInfo.cs
+C:\Users\mabubaker\source\repos\T4_ConnectionStringExample\T4_ConnectionStringExample\bin\Debug\netcoreapp2.1\T4_ConnectionStringExample.pdb
+C:\Users\mabubaker\source\repos\T4_ConnectionStringExample\T4_ConnectionStringExample\obj\Debug\netcoreapp2.1\T4_ConnectionStringExample.dll
+C:\Users\mabubaker\source\repos\T4_ConnectionStringExample\T4_ConnectionStringExample\obj\Debug\netcoreapp2.1\T4_ConnectionStringExample.pdb
